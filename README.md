@@ -17,10 +17,9 @@ Codeforces<br/>
 Atcoder<br/>
 [abc450_d](https://atcoder.jp/contests/abc450/tasks/abc450_d)
 [abc450_e](https://atcoder.jp/contests/abc450/tasks/abc450_e)
-[abc450_f](https://atcoder.jp/contests/abc450/tasks/abc450_f)<br/>
+[abc450_f](https://atcoder.jp/contests/abc450/tasks/abc450_f)
 [abc449_d](https://atcoder.jp/contests/abc449/tasks/abc449_d)
 [abc449_e](https://atcoder.jp/contests/abc449/tasks/abc449_e)
-
 <br/>
 洛谷<br/>
 [P3373 【模板】线段树 2](https://www.luogu.com.cn/problem/P3373)<br/>
