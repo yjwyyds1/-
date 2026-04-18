@@ -37,6 +37,9 @@ XCPC<br/>
 [2023年 XCPC 真题 (ICPC, CCPC 区域赛，网络预选赛)题单](https://vjudge.net/article/6015)<br/>
 [2022年XCPC真题混练](https://vjudge.net/article/3389)<br/>
 [2021年XCPC真题混练](https://vjudge.net/article/3893)<br/>
+<br/>
+[2023年ICPC亚洲济南区域赛 G. Gifts from Knowledge](https://codeforces.com/gym/104901/problem/G)<br/>
+<br/>
 牛客<br/>
 
 
