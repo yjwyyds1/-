@@ -32,7 +32,11 @@ Atcoder<br/>
 [P12175 蓝桥杯 2025 省 Python B 园艺](https://www.luogu.com.cn/problem/P12175)
 <br/>
 XCPC<br/>
-
+[2025 XCPC 补题链接 Upsolve Links](https://vjudge.net/article/11564)<br/>
+[2024 ICPC/CCPC/邀请赛/CCPC省赛 题单](https://vjudge.net/article/8134)<br/>
+[2023年 XCPC 真题 (ICPC, CCPC 区域赛，网络预选赛)题单](https://vjudge.net/article/6015)<br/>
+[2022年XCPC真题混练](https://vjudge.net/article/3389)<br/>
+[2021年XCPC真题混练](https://vjudge.net/article/3893)<br/>
 牛客<br/>
 
 
